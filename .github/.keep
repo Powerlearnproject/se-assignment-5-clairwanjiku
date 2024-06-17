@@ -37,4 +37,18 @@ It provide quick access to different views  and functionalities.
 
 
 ## EDITOR GROUP 
-*Editor Group consists of one or more 
+*Editor Group consists of one or more  editor  panes where you write and edit code or text files.
+* Each editor pane displays a single file, and you can open multiple files simultaneously.
+* You can split the editor group into multiple panes by clicking the Split Editor button or pressing Ctrl
+* You can also drag and drop files between editor panes to open them in a new pane.
+* The editor group also displays various indicators, such as errors, warnings, and breakpoints, to help
+
+
+## STATUS BAR 
+Located at the bottom of the VS code window and provides information and quick actions relevant to the current editor.
+* Displays the language mode, encoding, and line endings of the current file.
+* Shows the current line and column number.
+* Provides quick actions, such as saving the file, switching to a different file, or opening the
+* Command Palette.
+* Displays errors, warnings, and other diagnostic information.
+* Allows you to switch between different Git branches or repositories.
