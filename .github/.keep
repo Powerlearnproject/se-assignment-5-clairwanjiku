@@ -1,0 +1,40 @@
+Open your  web browser>
+go to visual studio code website https://code.visualstudio.com/
+download the vs code installer for your operating system.
+run the installer and follow the prompts to install vs code.
+once installed, open vs code.
+
+
+
+Go to View > Terminal (or press Ctrl+ ).
+Click on the dropdown arrow (next to the + sign) in the terminal panel to select your preferred shell.
+Optionally, customize the terminal shell path and other settings in the settings.json file (accessed via File > Preferences > Settings or Ctrl+,).
+Now you can run commands in the terminal panel within VS Code.
+To open a new terminal, click on the + sign in the terminal panel or use the keyboard shortcut
+Ctrl+Shift+` (Windows/Linux) or Cmd+Shift+` (macOS).
+Install Essential Extensions.
+Open the Extensions panel by clicking on the Extensions icon in the left sidebar or pressing Ctrl+Shift+
+Configure windows settings
+Open the Command Palette by pressing Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+
+Update VS Code and Extensions.
+
+
+## ACTIVITY BAR
+It provide quick access to different views  and functionalities.
+* Explorer: Displays the file system and allows you to navigate and manage your files and folders.
+* Search: Provides a powerful search functionality to find files, symbols, and text within your project.
+* Source Control: Manages your version control systems, such as Git.
+* Debug: Allows you to debug your code, set breakpoints, and inspect variables.
+* Extensions: Displays the installed extensions and allows you to manage them.
+
+## SIDE BAR 
+*Complements the activity bar by displaying additional contextual information and actions related to the current view or editor
+********************************
+* Shows the file  tree of your project for easy use and debugging
+* Explorer: Displays the file system and allows you to navigate and manage your files and folders.
+* Outline: Displays the symbol outline of the current file, allowing you to navigate and inspect the structure
+* Timeline: Displays a timeline of changes made to your files, allowing you to track changes and collaborate
+
+
+## EDITOR GROUP 
+*Editor Group consists of one or more 
