@@ -95,3 +95,21 @@ The Command Palette in VS Code lets you quickly access and execute commands with
 * Press the green play button in the sidebar or F5 to start debugging.
 
 * Use the debugging controls (step over, step into, step out, continue) to navigate through.
+
+
+
+## QUESTION 10
+
+## Initialize a Repository:
+
+Open VS Code and your project folder.
+Open the terminal (Ctrl+ or Cmd+ ) and type git init.
+Make Commits:
+
+## Make changes to your files.
+Stage changes in the Source Control view (Git icon).
+Commit with a message.
+Push Changes to GitHub:
+
+## Add GitHub as a remote (git remote add origin <repository-url>).
+Push changes with git push -u origin main.
