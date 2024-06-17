@@ -1,3 +1,4 @@
+## QUESTION 1
 Open your  web browser>
 go to visual studio code website https://code.visualstudio.com/
 download the vs code installer for your operating system.
@@ -5,7 +6,7 @@ run the installer and follow the prompts to install vs code.
 once installed, open vs code.
 
 
-
+## QUESTION2
 Go to View > Terminal (or press Ctrl+ ).
 Click on the dropdown arrow (next to the + sign) in the terminal panel to select your preferred shell.
 Optionally, customize the terminal shell path and other settings in the settings.json file (accessed via File > Preferences > Settings or Ctrl+,).
@@ -18,7 +19,7 @@ Configure windows settings
 Open the Command Palette by pressing Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+
 Update VS Code and Extensions.
 
-
+## QUESTION 3
 ## ACTIVITY BAR
 It provide quick access to different views  and functionalities.
 * Explorer: Displays the file system and allows you to navigate and manage your files and folders.
@@ -52,3 +53,45 @@ Located at the bottom of the VS code window and provides information and quick a
 * Command Palette.
 * Displays errors, warnings, and other diagnostic information.
 * Allows you to switch between different Git branches or repositories.
+
+
+
+## QUESTION 4 
+## COMMAND PALETTE
+The Command Palette in VS Code lets you quickly access and execute commands without navigating menus. Open it with Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac). Use it to open files, manage extensions, and more by typing commands. For example, type Open File to locate and open files or Extensions: Install Extensions to install new extensions. The Command Palette offers a fuzzy search to find commands quickly.
+
+## QUESTION 5
+ They allow users to customize their development environment to fit specific workflows and preferences by adding support for new programming languages, debuggers, linters, themes, and other tools. Extensions transform VS Code from a lightweight code editor into a powerful Integrated Development Environment (IDE) tailored to individual development needs
+
+ Extension are found from clicking the extension icon on the side bar and typing in the search bar what extensions you need.
+
+
+ ## QUESTION 6
+ The integrated terminal in Visual Studio Code (VS Code) allows running command-line tools directly within the editor, accessible via Ctrl+ (Windows/Linux) or Cmd+ (Mac). It provides a seamless workflow, context-aware navigation, and supports multiple terminals and split views. Users can customize terminal settings and benefit from integration with extensions. This setup enhances productivity and ensures a consistent development environment.
+
+
+
+ ## QUESTION 7
+
+* Create Files/Folders: Right-click in the Explorer panel and select "New File" or "New Folder."
+* Open Files: Double-click a file in the Explorer panel, or use Ctrl+O to open a file from your system.
+* Navigate: Use the Explorer panel to click through folders, or press Ctrl+P to quickly open files by name.
+* Efficient Navigation: Use Ctrl+Tab to switch between open files and Ctrl+B to toggle the Explorer panel for quick access.
+
+
+## QUESTION 8
+* Find Settings: Click the gear icon at the bottom left and select "Settings."
+* Change Theme: In Settings, search for "Color Theme" and pick a new one.
+* Change Font Size: In Settings, search for "Font Size" and adjust the number.
+* Change Keybindings: Click the gear icon and select "Keyboard Shortcuts" to change how keys work.
+* Change Language: In Settings, search for "Language" and select a new language for syntax highlighting
+* Change Extensions: Click the Extensions icon on the left sidebar and search for new extensions to install.
+* Change Editor Layout: Click the three dots on the top right of the Editor Group and select "
+
+
+##  QUESTION 9
+* Open your code in VS Code.
+* Set breakpoints by clicking next to the line numbers.
+* Press the green play button in the sidebar or F5 to start debugging.
+
+* Use the debugging controls (step over, step into, step out, continue) to navigate through.
